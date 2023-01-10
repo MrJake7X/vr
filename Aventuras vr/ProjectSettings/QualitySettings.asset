@@ -248,7 +248,6 @@ QualitySettings:
     customRenderPipeline: {fileID: 11400000, guid: 6986a3069e6c6a14b9cacbfdde25bffc,
       type: 2}
     excludedTargetPlatforms:
-    - Server
     - Android
     - WebGL
   - serializedVersion: 2
@@ -289,8 +288,8 @@ QualitySettings:
       type: 2}
     excludedTargetPlatforms:
     - WebGL
-    - Server
     - Standalone
+    - Server
   m_PerPlatformDefaultQuality:
     Android: 5
     Lumin: 5
